@@ -1,1 +1,1 @@
-# -Segmetn-Display-Using-DIfferent-Gates
+# 7-Segmetn-Display-Using-Different-Gates
